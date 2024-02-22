@@ -22,7 +22,7 @@ const LandingPage = () => {
                     className="origin-left w-[8vw] rounded-md ml-2 mr-2 h-[5vw] overflow-hidden "
                   >
                     <img
-                      className="bg-cover object-fill origin-left"
+                      className="bg-cover object-cover origin-left"
                       src="https://cdn.pixabay.com/photo/2017/02/20/15/15/check-2082845_1280.jpg"
                       alt="image"
                     ></img>
