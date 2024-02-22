@@ -23,7 +23,7 @@ const LandingPage = () => {
                   >
                     <img
                       className="bg-cover object-fill origin-left"
-                      src="https://cdn.pixabay.com/photo/2017/10/31/19/05/web-design-2906159_1280.jpg"
+                      src="https://cdn.pixabay.com/photo/2017/02/20/15/15/check-2082845_1280.jpg"
                       alt="image"
                     ></img>
                   </motion.div>
