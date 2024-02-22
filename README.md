@@ -6,7 +6,7 @@
 
 *Currently For Large Screens, Come Soon for Mobile Devices.
 
-[See Live Site:](https://ochi-clone-two.vercel.app/)
+[See Live Site:](https://ochi-design-react.vercel.app/)
 
   
   
