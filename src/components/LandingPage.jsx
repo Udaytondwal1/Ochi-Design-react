@@ -22,8 +22,8 @@ const LandingPage = () => {
                     className="origin-left w-[8vw] rounded-md ml-2 mr-2 h-[5vw] overflow-hidden "
                   >
                     <img
-                      className="bg-cover object-cover origin-left"
-                      src="https://cdn.pixabay.com/photo/2017/02/20/15/15/check-2082845_1280.jpg"
+                      className="bg-cover object-cover origin-left h-28"
+                      src="https://cdn.pixabay.com/photo/2016/02/18/19/25/pc-1207886_1280.jpg"
                       alt="image"
                     ></img>
                   </motion.div>
