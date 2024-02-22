@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import Ieye from "./ieye";
+import Ieye from "./Ieye";
 
 const Eyes = () => {
   return (
